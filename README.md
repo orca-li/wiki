@@ -17,7 +17,7 @@
     4.3. Утилиты <br>
     Поиск - `grep` `find` 
 
-    4.4. [file name extensions](https://github.com/orca-li/wiki/links/file%20name%20extensions/) <br>
+    4.4. [file name extensions](https://github.com/orca-li/wiki/links/official%20links/) <br>
 `elf`, `bin`, `exe`, `png`
 
 5. ![language]() <br>
